@@ -60,7 +60,7 @@ include "assests/php_code/scource_code.php";
                 <button type="submit" class="btn btn-primary" name="btn_reg">Register Student</button>
             </div>
         </form>
-    </div>
+    </div>dadsadsa
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
