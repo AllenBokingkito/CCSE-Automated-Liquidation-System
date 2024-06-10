@@ -1,0 +1,6 @@
+keys:
+2cc7212bab464b37ab886fe6a8a928b8
+2aec00d8a9354288896885299c64680c
+
+endpoint:
+https://caliquidation.cognitiveservices.azure.com/
